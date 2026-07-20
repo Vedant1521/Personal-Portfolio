@@ -2,7 +2,7 @@
 
 An interactive, high-fidelity macOS desktop simulation built to showcase my software projects, skills, and background in **Mathematics & Computing** at Delhi Technological University (DTU).
 
-🖥️ **Live Demo:** [portfolio.vedantgupta.dev](https://portfolio.vedantgupta.dev) (or your hosting link)
+🖥️ **Live Demo:** [portfoliovedantgupta.vercel.app](https://portfoliovedantgupta.vercel.app)
 
 ---
 
