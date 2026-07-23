@@ -121,7 +121,7 @@ const WORK_LOCATION = {
         },
         {
           id: 2,
-          name: "fetchit.com",
+          name: "fetchit-cli.vercel.app",
           icon: "/images/safari.webp",
           kind: "file",
           fileType: "url",
